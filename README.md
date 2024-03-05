@@ -1,13 +1,3 @@
-👋 Hello!
-😎 I’m currently working on my IT projects
-📚 I'm teaching front-end dev at FrontendBlok
-🎸 Play electric guitar
-🎥 Create videos about web development
-
-🌐 Socials:
-LinkedIn Instagram Twitter YouTube VK
-
-💻 Tech Stack:
-HTML5 CSS3 TailwindCSS JavaScript Vue.js NuxtJS PHP TypeScript NodeJS NPM Yarn Docker Pug Webpack Notion Swagger Jira Trello
-
-📊 GitHub Stats:
+# 👋 Hello, I'm Igor
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
