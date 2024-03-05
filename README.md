@@ -1,17 +1,13 @@
-### Hi there, I'm Igor 👋
+👋 Hello!
+😎 I’m currently working on my IT projects
+📚 I'm teaching front-end dev at FrontendBlok
+🎸 Play electric guitar
+🎥 Create videos about web development
 
+🌐 Socials:
+LinkedIn Instagram Twitter YouTube VK
 
-<!--
-**tehnarter/tehnarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+HTML5 CSS3 TailwindCSS JavaScript Vue.js NuxtJS PHP TypeScript NodeJS NPM Yarn Docker Pug Webpack Notion Swagger Jira Trello
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
